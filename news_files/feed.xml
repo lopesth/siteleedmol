@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+<title>News</title><link>http://www.leedmol.com/index.html</link><description>News of LEEDMOL</description><dc:language>en</dc:language><language>en</language><dc:creator>Thiago Lopes</dc:creator><dc:date>2017-12-01T17:15:00-02:00</dc:date><admin:generatorAgent rdf:resource="http://www.realmacsoftware.com/" />
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+<lastBuildDate>Fri, 1 Dec 2017 11:25:56 -0200</lastBuildDate><item><title>Qualifying Exam of two LEEDMOL students scheduled for the next week</title><dc:creator>Thiago Lopes</dc:creator><category>Schedule</category><dc:date>2017-12-02T19:22:44-02:00</dc:date><link>http://www.leedmol.com/news_files/3737715c5e07d3e59d44f79e81471efb-3.html#unique-entry-id-3</link><guid isPermaLink="true">http://www.leedmol.com/news_files/3737715c5e07d3e59d44f79e81471efb-3.html#unique-entry-id-3</guid><content:encoded><![CDATA[<center>
+
+
+<b><u>MsC.   Qualifying Exam Schedule</b></u></center>
+
+
+<p align="center">
+
+
+<b>Ueslei Meira Vasconcelos</b>
+
+
+Location: <I>Blue Auditorium of the Institute of Chemistry</I>
+
+
+Date: <I>04/12/2017 - 14:00h</I></p>
+
+
+<p align="center">
+
+
+<b>Fernanda Ferrari Martins Santos</b>
+
+
+Location: <I>Blue Auditorium of the Institute of Chemistry</I>
+
+
+Date: <I>06/12/2017 - 14:00h</I></p>]]></content:encoded></item><item><title>Launch of the site</title><dc:creator>Thiago Lopes</dc:creator><dc:subject>News</dc:subject><dc:date>2017-12-01T17:15:00-02:00</dc:date><link>http://www.leedmol.com/news_files/3d193441b452c9c74c6c6c6a8250f04e-6.html#unique-entry-id-6</link><guid isPermaLink="true">http://www.leedmol.com/news_files/3d193441b452c9c74c6c6c6a8250f04e-6.html#unique-entry-id-6</guid><content:encoded><![CDATA[Launch of the site in two domains:
+
+
+http://www.leedmol.com
+
+
+http://www.heibbegroup.top]]></content:encoded></item><item><title>LEEDMOL Receives two new MsC students</title><dc:creator>Thiago Lopes</dc:creator><category>New Members</category><dc:date>2017-09-02T08:14:03-03:00</dc:date><link>http://www.leedmol.com/news_files/0129d39a2e86c8739fb15b32cee2b8f9-2.html#unique-entry-id-2</link><guid isPermaLink="true">http://www.leedmol.com/news_files/0129d39a2e86c8739fb15b32cee2b8f9-2.html#unique-entry-id-2</guid><content:encoded><![CDATA[<p align="justify">LEEDMOL welcomes the newest students of the Graduate Program in Chemistry of UNB, in the category of MsC.   Of the new approved, two integrated the LEEDMOL team:</p>
+
+
+	&bull;	Mateus R Barbosa
+
+
+	&bull;	Lucio R Vieira
+
+
+<center><b><I>Welcome to the laboratory.  </I></b></center>]]></content:encoded></item><item><title>First post</title><dc:creator>Thiago Lopes</dc:creator><dc:subject>News</dc:subject><dc:date>2016-05-22T12:28:26-03:00</dc:date><link>http://www.leedmol.com/news_files/2767bd7269367b9287a1b82923fb3758-4.html#unique-entry-id-4</link><guid isPermaLink="true">http://www.leedmol.com/news_files/2767bd7269367b9287a1b82923fb3758-4.html#unique-entry-id-4</guid><content:encoded><![CDATA[<p align="justify">Today, May 22, 2016 was the first day of LEEDMOL activities.   We hope that this day will be a milestone for Brazilian Theoretical Chemistry.</p>
+
+
+<p align="justify">Thank you to all who believed.</p>
+]]></content:encoded></item></channel>
+</rss>
