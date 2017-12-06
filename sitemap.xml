@@ -2,79 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>http://www.leedmol.com/index.html</loc>
-		<lastmod>2017-12-05</lastmod>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/index_files/b603191105103471a3b5449be5d7bc5e-0.html</loc>
-		<lastmod>2017-12-05</lastmod>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/index_files/beeeb397cd50f7367fe2d3b61cf9269f-8.html</loc>
-		<lastmod>2017-12-05</lastmod>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/index_files/e320f8dc4f6c630aa4df897cb040221f-7.html</loc>
-		<lastmod>2017-12-05</lastmod>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/index_files/3824308a201a308c2719b2fbd409ed17-3.html</loc>
-		<lastmod>2017-12-05</lastmod>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/index_files/ea26845095deb7b7b29f87832aafd5ce-4.html</loc>
-		<lastmod>2017-12-05</lastmod>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/index_files/f74a6fd6abeb438dd001388d401a4a95-6.html</loc>
-		<lastmod>2017-12-05</lastmod>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/index_files/b247965af895e1c2e0a9d07782b57e3e-5.html</loc>
-		<lastmod>2017-12-05</lastmod>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/index_files/0f02de3ed0b3406b082ac20e1319dcce-1.html</loc>
-		<lastmod>2017-12-05</lastmod>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/index_files/be0b1363912046f213e39d0534fddd51-2.html</loc>
-		<lastmod>2017-12-05</lastmod>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/index_files/archive-2016.html</loc>
-		<lastmod>2017-12-05</lastmod>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/index_files/archive-2017.html</loc>
-		<lastmod>2017-12-05</lastmod>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/index_files/category-defenses.html</loc>
-		<lastmod>2017-12-05</lastmod>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/index_files/category-publications.html</loc>
-		<lastmod>2017-12-05</lastmod>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/index_files/category-prizes.html</loc>
-		<lastmod>2017-12-05</lastmod>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/index_files/tag-daniel-machado.html</loc>
-		<lastmod>2017-12-05</lastmod>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/index_files/tag-heibbe-oliveira.html</loc>
-		<lastmod>2017-12-05</lastmod>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/index_files/tag-thiago-lopes.html</loc>
-		<lastmod>2017-12-05</lastmod>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/index_files/tag-ueslei-vasconcelos.html</loc>
-		<lastmod>2017-12-05</lastmod>
 	</url>
 	<url>
 		<loc>http://www.leedmol.com/about.html</loc>
@@ -84,7 +11,6 @@
 	</url>
 	<url>
 		<loc>http://www.leedmol.com/members.html</loc>
-		<lastmod>2017-12-05</lastmod>
 	</url>
 	<url>
 		<loc>http://www.leedmol.com/publications.html</loc>
@@ -97,45 +23,6 @@
 	</url>
 	<url>
 		<loc>http://www.leedmol.com/news.html</loc>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/news_files/3737715c5e07d3e59d44f79e81471efb-3.html</loc>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/news_files/3d193441b452c9c74c6c6c6a8250f04e-6.html</loc>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/news_files/0129d39a2e86c8739fb15b32cee2b8f9-2.html</loc>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/news_files/2767bd7269367b9287a1b82923fb3758-4.html</loc>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/news_files/archive-may-2016.html</loc>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/news_files/archive-september-2017.html</loc>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/news_files/archive-december-2017.html</loc>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/news_files/category-schedule.html</loc>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/news_files/category-new-members.html</loc>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/news_files/tag-fernanda-santos.html</loc>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/news_files/tag-lucio-vieira.html</loc>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/news_files/tag-mateus-barbosa.html</loc>
-	</url>
-	<url>
-		<loc>http://www.leedmol.com/news_files/tag-ueslei-vasconcelos.html</loc>
 	</url>
 	<url>
 		<loc>http://www.leedmol.com/links.html</loc>
